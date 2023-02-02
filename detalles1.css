@@ -1,0 +1,30 @@
+body {
+    color: antiquewhite;
+}
+
+.primera {
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+}
+
+.texto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+img {
+    width: 200px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.texto1 {
+    display: flex;
+    width: 10%;
+}

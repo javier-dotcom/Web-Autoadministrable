@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(36, 36, 36);
+    color: whitesmoke;
+    width: 60%;
+    margin: auto;
+    border-radius: 20px;
+    padding: 20px;
+}
